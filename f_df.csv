@@ -1,0 +1,229 @@
+City,Country,Month,AvgTemp,Suitable,Budget
+Cairo,Egypt,1,19.166666666666668,1,Low
+Doha,Qatar,8,36.05555555555556,0,High
+Seoul,South Korea,1,4.111111111111111,0,Low
+Las Vegas,US,12,8.777777777777777,0,Low
+Paris,France,12,1.8888888888888882,0,Low
+Tokyo,Japan,12,5.055555555555556,0,Low
+Dubai,United Arab Emirates,2,19.777777777777775,1,High
+Cairo,Egypt,5,30.27777777777778,0,Medium
+Abu Dhabi,United Arab Emirates,6,34.0,0,High
+Honolulu,US,9,25.500000000000004,1,Medium
+Barcelona,Spain,7,23.944444444444443,1,High
+London,United Kingdom,3,11.166666666666666,0,Medium
+Honolulu,US,7,27.61111111111111,1,High
+Las Vegas,US,4,23.055555555555557,1,Medium
+Cairo,Egypt,1,15.88888888888889,1,Low
+Tokyo,Japan,3,8.499999999999998,0,Medium
+Tokyo,Japan,6,25.72222222222222,1,High
+Cairo,Egypt,9,24.499999999999996,1,Medium
+Abu Dhabi,United Arab Emirates,8,36.388888888888886,0,High
+Paris,France,6,14.833333333333334,0,High
+Abu Dhabi,United Arab Emirates,1,17.22222222222222,1,Low
+Cairo,Egypt,7,28.5,1,High
+London,United Kingdom,7,16.0,1,High
+Rome,Italy,8,24.61111111111111,1,High
+Tokyo,Japan,1,9.055555555555554,0,Low
+Honolulu,US,3,24.88888888888889,1,Medium
+Sapporo,Japan,11,6.166666666666668,0,Low
+Honolulu,US,9,26.5,1,Medium
+Paris,France,2,2.2777777777777786,0,Low
+Tokyo,Japan,3,4.2777777777777795,0,Medium
+Dubai,United Arab Emirates,11,23.833333333333336,1,High
+Tokyo,Japan,11,9.555555555555557,0,Low
+Barcelona,Spain,8,24.166666666666668,1,High
+Barcelona,Spain,6,21.611111111111114,1,High
+Dubai,United Arab Emirates,9,33.72222222222222,0,Low
+Las Vegas,US,7,39.05555555555556,0,High
+Paris,France,11,8.666666666666666,0,Low
+Seoul,South Korea,8,24.388888888888893,1,High
+Barcelona,Spain,10,19.944444444444446,1,Medium
+Las Vegas,US,6,33.22222222222222,0,High
+Cairo,Egypt,6,30.833333333333332,0,High
+Dubai,United Arab Emirates,3,24.444444444444443,1,Medium
+Paris,France,1,5.333333333333334,0,Low
+Tokyo,Japan,12,9.11111111111111,0,Low
+Tokyo,Japan,3,14.11111111111111,0,Medium
+Cairo,Egypt,5,20.222222222222225,1,Medium
+Tokyo,Japan,6,18.666666666666664,1,High
+London,United Kingdom,10,8.666666666666666,0,Medium
+Dubai,United Arab Emirates,7,32.94444444444444,0,Low
+Sapporo,Japan,4,4.222222222222223,0,Medium
+Tokyo,Japan,12,10.88888888888889,0,Low
+Doha,Qatar,11,25.555555555555557,1,Low
+Sapporo,Japan,1,-9.222222222222221,0,Low
+Dubai,United Arab Emirates,6,34.55555555555556,0,Low
+Sapporo,Japan,1,-2.3888888888888893,0,Low
+Barcelona,Spain,7,26.055555555555557,1,High
+Sapporo,Japan,2,-7.833333333333333,0,Low
+Seoul,South Korea,5,22.77777777777778,1,Medium
+Paris,France,12,0.11111111111111269,0,Low
+Las Vegas,US,5,28.22222222222222,1,Medium
+Doha,Qatar,7,38.94444444444444,0,High
+Seoul,South Korea,9,21.944444444444443,1,Medium
+Honolulu,US,6,25.38888888888889,1,High
+London,United Kingdom,8,15.722222222222221,1,High
+Barcelona,Spain,4,9.5,0,Medium
+Dubai,United Arab Emirates,9,33.77777777777778,0,Low
+Seoul,South Korea,8,31.833333333333332,0,High
+Doha,Qatar,5,32.166666666666664,0,Medium
+Abu Dhabi,United Arab Emirates,2,17.055555555555557,1,Low
+Sapporo,Japan,3,-3.7777777777777777,0,Medium
+Tokyo,Japan,6,25.72222222222222,1,High
+Tokyo,Japan,6,23.666666666666664,1,High
+Honolulu,US,7,25.944444444444443,1,High
+Abu Dhabi,United Arab Emirates,1,17.38888888888889,1,Low
+Rome,Italy,2,10.555555555555555,0,Low
+Dubai,United Arab Emirates,6,36.22222222222222,0,Low
+Abu Dhabi,United Arab Emirates,5,34.22222222222222,0,Medium
+Rome,Italy,5,17.88888888888889,1,Medium
+Abu Dhabi,United Arab Emirates,4,24.333333333333332,1,Medium
+Doha,Qatar,6,32.833333333333336,0,High
+Doha,Qatar,4,28.388888888888886,1,Medium
+Doha,Qatar,1,18.666666666666664,1,Low
+Paris,France,11,7.000000000000001,0,Low
+Dubai,United Arab Emirates,3,23.22222222222222,1,Medium
+Dubai,United Arab Emirates,9,36.5,0,Low
+London,United Kingdom,7,19.88888888888889,1,High
+Tokyo,Japan,4,15.222222222222221,1,Medium
+London,United Kingdom,7,17.38888888888889,1,High
+London,United Kingdom,4,7.277777777777778,0,Medium
+Seoul,South Korea,3,8.777777777777777,0,Medium
+Sapporo,Japan,9,16.333333333333332,1,Medium
+Las Vegas,US,9,30.0,1,Medium
+London,United Kingdom,4,10.722222222222221,0,Medium
+Dubai,United Arab Emirates,5,30.5,0,Low
+Doha,Qatar,9,35.05555555555556,0,Medium
+Rome,Italy,2,11.722222222222221,0,Low
+Barcelona,Spain,12,8.444444444444446,0,Low
+Barcelona,Spain,1,6.0555555555555545,0,Low
+London,United Kingdom,8,14.000000000000002,0,High
+Paris,France,2,0.2777777777777778,0,Low
+Seoul,South Korea,9,21.444444444444443,1,Medium
+Seoul,South Korea,11,4.666666666666666,0,Low
+Tokyo,Japan,6,21.5,1,High
+Las Vegas,US,5,28.555555555555557,1,Medium
+London,United Kingdom,10,11.777777777777779,0,Medium
+Seoul,South Korea,9,18.166666666666668,1,Medium
+Las Vegas,US,3,16.333333333333332,1,Medium
+Honolulu,US,8,28.166666666666668,1,High
+Rome,Italy,6,19.166666666666668,1,High
+Honolulu,US,1,21.722222222222218,1,Low
+Seoul,South Korea,12,-0.33333333333333415,0,Low
+Barcelona,Spain,3,12.5,0,Medium
+Doha,Qatar,4,29.444444444444443,1,Medium
+Paris,France,12,9.833333333333336,0,Low
+Seoul,South Korea,11,11.666666666666666,0,Low
+Barcelona,Spain,5,14.000000000000002,0,Medium
+Las Vegas,US,9,28.555555555555557,1,Medium
+Tokyo,Japan,7,25.444444444444443,1,High
+Las Vegas,US,4,19.555555555555557,1,Medium
+Rome,Italy,1,10.388888888888891,0,Low
+Cairo,Egypt,11,19.444444444444443,1,Low
+Paris,France,9,11.944444444444445,0,Medium
+Barcelona,Spain,11,7.000000000000001,0,Low
+Honolulu,US,5,24.555555555555557,1,Medium
+Rome,Italy,6,21.444444444444443,1,High
+Barcelona,Spain,1,7.444444444444445,0,Low
+Cairo,Egypt,3,17.38888888888889,1,Medium
+Barcelona,Spain,6,24.66666666666667,1,High
+Las Vegas,US,6,35.05555555555556,0,High
+Sapporo,Japan,12,-5.611111111111112,0,Low
+Doha,Qatar,7,38.22222222222222,0,High
+Seoul,South Korea,9,14.777777777777779,0,Medium
+Honolulu,US,10,26.22222222222222,1,Medium
+Doha,Qatar,3,22.22222222222222,1,Medium
+Tokyo,Japan,12,10.111111111111112,0,Low
+Las Vegas,US,2,16.166666666666668,1,Low
+Barcelona,Spain,9,26.5,1,Medium
+Barcelona,Spain,4,10.722222222222221,0,Medium
+Sapporo,Japan,4,4.666666666666666,0,Medium
+Paris,France,1,7.166666666666667,0,Low
+Seoul,South Korea,4,12.0,0,Medium
+Sapporo,Japan,9,16.22222222222222,1,Medium
+Seoul,South Korea,2,-1.1111111111111112,0,Low
+Sapporo,Japan,9,17.055555555555557,1,Medium
+Sapporo,Japan,1,-1.2222222222222219,0,Low
+Cairo,Egypt,8,33.94444444444444,0,High
+Honolulu,US,8,27.555555555555554,1,High
+Las Vegas,US,3,10.166666666666664,0,Medium
+Paris,France,1,5.611111111111112,0,Low
+Rome,Italy,7,27.38888888888889,1,High
+London,United Kingdom,2,4.944444444444444,0,Low
+Paris,France,5,14.333333333333334,0,Medium
+Rome,Italy,11,8.277777777777779,0,Low
+Honolulu,US,3,21.944444444444443,1,Medium
+Cairo,Egypt,8,30.0,1,High
+London,United Kingdom,8,16.27777777777778,1,High
+Doha,Qatar,8,34.77777777777778,0,High
+Sapporo,Japan,2,-6.888888888888888,0,Low
+London,United Kingdom,10,10.88888888888889,0,Medium
+Rome,Italy,7,22.944444444444443,1,High
+Abu Dhabi,United Arab Emirates,3,28.88888888888889,1,Medium
+Rome,Italy,6,20.500000000000004,1,High
+Seoul,South Korea,9,20.833333333333332,1,Medium
+Abu Dhabi,United Arab Emirates,12,21.5,1,Low
+Cairo,Egypt,11,20.11111111111111,1,Low
+Rome,Italy,11,15.055555555555555,1,Low
+Honolulu,US,8,27.77777777777778,1,High
+Abu Dhabi,United Arab Emirates,11,27.88888888888889,1,Low
+Abu Dhabi,United Arab Emirates,12,22.38888888888889,1,Low
+Rome,Italy,11,10.0,0,Low
+London,United Kingdom,2,10.222222222222221,0,Low
+Honolulu,US,6,28.944444444444443,1,High
+Paris,France,9,18.72222222222222,1,Medium
+Doha,Qatar,3,22.61111111111111,1,Medium
+Rome,Italy,9,19.777777777777775,1,Medium
+Seoul,South Korea,9,24.055555555555557,1,Medium
+Seoul,South Korea,11,0.44444444444444287,0,Low
+Tokyo,Japan,10,20.38888888888889,1,Medium
+Dubai,United Arab Emirates,5,27.38888888888889,1,Low
+Sapporo,Japan,8,16.77777777777778,1,High
+Cairo,Egypt,1,9.333333333333332,0,Low
+Doha,Qatar,11,26.333333333333336,1,Low
+Paris,France,9,15.722222222222221,1,Medium
+Seoul,South Korea,9,22.16666666666667,1,Medium
+Honolulu,US,8,27.277777777777775,1,High
+Cairo,Egypt,7,30.61111111111111,0,High
+Cairo,Egypt,12,15.61111111111111,1,Low
+Cairo,Egypt,9,26.444444444444443,1,Medium
+Las Vegas,US,2,14.555555555555555,0,Low
+Cairo,Egypt,5,27.055555555555557,1,Medium
+London,United Kingdom,11,14.11111111111111,0,Low
+Dubai,United Arab Emirates,8,35.55555555555556,0,Low
+Abu Dhabi,United Arab Emirates,9,33.888888888888886,0,Medium
+Abu Dhabi,United Arab Emirates,4,30.833333333333332,0,Medium
+Las Vegas,US,8,31.833333333333332,0,High
+Sapporo,Japan,11,-1.1111111111111112,0,Low
+Barcelona,Spain,12,12.055555555555557,0,Low
+Seoul,South Korea,9,21.999999999999996,1,Medium
+Rome,Italy,6,24.166666666666668,1,High
+Las Vegas,US,7,34.27777777777778,0,High
+Maldives,Maldives,1,27.0,1,High
+Maldives,Maldives,2,28.0,1,High
+Maldives,Maldives,3,29.0,1,Medium
+Maldives,Maldives,4,30.0,1,Medium
+Maldives,Maldives,12,27.0,1,High
+Bali,Indonesia,4,28.0,1,Medium
+Bali,Indonesia,5,27.0,1,Low
+Bali,Indonesia,6,26.0,1,Low
+Bali,Indonesia,9,27.0,1,Low
+Manali,India,1,-1.0,1,High
+Manali,India,3,8.0,0,Medium
+Manali,India,5,18.0,0,Low
+Manali,India,6,20.0,0,Low
+Manali,India,10,10.0,0,Medium
+Zhangjiajie National Forest Park,China,4,16.0,1,Medium
+Zhangjiajie National Forest Park,China,5,20.0,1,Medium
+Zhangjiajie National Forest Park,China,9,22.0,1,Medium
+Zhangjiajie National Forest Park,China,10,18.0,1,Medium
+Dubai,UAE,1,19.0,1,High
+Dubai,UAE,2,21.0,1,High
+Dubai,UAE,3,24.0,1,Medium
+Dubai,UAE,12,20.0,1,High
+Swiss Alps,Switzerland,12,-5.0,1,High
+Swiss Alps,Switzerland,1,-7.0,1,High
+Swiss Alps,Switzerland,2,-6.0,1,High
+Bansko,Bulgaria,12,-2.0,1,High
+Bansko,Bulgaria,1,-4.0,1,High
+Bansko,Bulgaria,2,-3.0,1,High
