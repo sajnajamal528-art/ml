@@ -1,29 +1,47 @@
-🌴 V-On-Spot
-ML-Powered Vacation Destination Recommendation System ✈️
+#🌴 V-On-Spot
 
-V-On-Spot is a machine learning application that recommends ideal vacation destinations based on the selected month using historical temperature data.
+##✈️ ML-Powered Vacation Destination Recommendation System
 
-🚀 Live Demo
+Choosing the right vacation destination based on the time of year can be challenging due to varying weather conditions across cities. V-On-Spot is a machine learning-powered recommendation system designed to simplify this decision-making process.
 
-🔗 Try the App: https://v-on-spot.streamlit.app/
+By analyzing historical temperature data, it suggests suitable destinations based on the selected month, enabling users to make informed, data-driven travel decisions instead of relying on guesswork.
 
-✨ Features
+##🚀 Live Demo
 
-📅 Month-based vacation destination recommendations
+##🔗 Try the App:
+https://v-on-spot.streamlit.app/
 
-🤖 Multiple ML models implemented and compared
+##✨ Features
 
-✅ Random Forest selected as the best-performing model
+##📅 Month-based vacation destination recommendations
 
-⚡ Instant predictions through an interactive Streamlit interface
+##🤖 Multiple machine learning models implemented and compared
 
-📊 Data-driven decision support for travel planning
+##⚡ Instant predictions through an interactive Streamlit interface
 
-🛠 Tech Stack
+##📊 Data-driven decision support for travel planning
+
+##🧠 Machine Learning
+
+Data preprocessing and feature engineering
+
+Models implemented:
+
+Logistic Regression
+
+Decision Tree
+
+Random Forest
+
+Support Vector Machine (SVM)
+
+Final Model Selected: Random Forest
+
+##🛠 Tech Stack
 
 Python • Pandas • NumPy • Scikit-learn • Matplotlib • Streamlit
 
-📂 Project Structure
+##📂 Project Structure
 V-On-Spot/
 │── ap.py
 │── model.pkl
